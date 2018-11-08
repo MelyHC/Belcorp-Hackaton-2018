@@ -1,9 +1,9 @@
 {
-  "main.css": "/Belcorp-Hackaton-2018/static/css/main.687176a4.chunk.css",
-  "main.js": "/Belcorp-Hackaton-2018/static/js/main.d2f10576.chunk.js",
-  "main.js.map": "/Belcorp-Hackaton-2018/static/js/main.d2f10576.chunk.js.map",
-  "static/js/1.d35ff613.chunk.js": "/Belcorp-Hackaton-2018/static/js/1.d35ff613.chunk.js",
-  "static/js/1.d35ff613.chunk.js.map": "/Belcorp-Hackaton-2018/static/js/1.d35ff613.chunk.js.map",
+  "main.css": "/Belcorp-Hackaton-2018/static/css/main.d2e0c262.chunk.css",
+  "main.js": "/Belcorp-Hackaton-2018/static/js/main.a5033f06.chunk.js",
+  "main.js.map": "/Belcorp-Hackaton-2018/static/js/main.a5033f06.chunk.js.map",
+  "static/js/1.4d113fb4.chunk.js": "/Belcorp-Hackaton-2018/static/js/1.4d113fb4.chunk.js",
+  "static/js/1.4d113fb4.chunk.js.map": "/Belcorp-Hackaton-2018/static/js/1.4d113fb4.chunk.js.map",
   "runtime~main.js": "/Belcorp-Hackaton-2018/static/js/runtime~main.081d556f.js",
   "runtime~main.js.map": "/Belcorp-Hackaton-2018/static/js/runtime~main.081d556f.js.map",
   "static/media/esikaLogo.PNG": "/Belcorp-Hackaton-2018/static/media/esikaLogo.795396cc.PNG",
@@ -11,8 +11,8 @@
   "static/media/belcorp.png": "/Belcorp-Hackaton-2018/static/media/belcorp.1b19ea76.png",
   "static/media/Captura.JPG": "/Belcorp-Hackaton-2018/static/media/Captura.b4d30698.JPG",
   "static/media/lbelLogo.PNG": "/Belcorp-Hackaton-2018/static/media/lbelLogo.a7f39bde.PNG",
-  "static/css/main.687176a4.chunk.css.map": "/Belcorp-Hackaton-2018/static/css/main.687176a4.chunk.css.map",
+  "static/css/main.d2e0c262.chunk.css.map": "/Belcorp-Hackaton-2018/static/css/main.d2e0c262.chunk.css.map",
   "index.html": "/Belcorp-Hackaton-2018/index.html",
-  "precache-manifest.78bae91dc6011e42e9ba9c5a034ae5c7.js": "/Belcorp-Hackaton-2018/precache-manifest.78bae91dc6011e42e9ba9c5a034ae5c7.js",
+  "precache-manifest.64b4df83885a25721d164a8b8263418c.js": "/Belcorp-Hackaton-2018/precache-manifest.64b4df83885a25721d164a8b8263418c.js",
   "service-worker.js": "/Belcorp-Hackaton-2018/service-worker.js"
 }
